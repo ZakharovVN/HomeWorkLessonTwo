@@ -1,0 +1,2 @@
+public class JavaHomeWork2 {
+}
